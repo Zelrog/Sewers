@@ -117,4 +117,4 @@ const friends = [
 			twitter: "https://x.com/Y40ifan"
         }
     }
-};
+];
