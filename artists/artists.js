@@ -1,17 +1,5 @@
 const artists = [
     {
-        name: "Aaalex",
-        aliases: ["AaalexOrca"],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: "https://www.furaffinity.net/user/aaalexorca",
-            e621: "https://e621.net/artists/125473",
-            bsky: "https://bsky.app/profile/aaalexorca.bsky.social",
-            twitter: "https://x.com/AaalexOrca"
-        }
-    },
-    {
         name: "AlexxFur",
         aliases: ["AlexxFur2","QuejumbrosoAlex", "AlexxElQuejumbroso"],
         imageExt: "png", 
@@ -45,19 +33,6 @@ const artists = [
             e621: "https://e621.net/artists/36749",
             bsky: "https://bsky.app/profile/archiblender.bsky.social",
             twitter: "https://x.com/Archiblendrr"
-        }
-    },
-    {
-        name: "Beef",
-        aliases: ["GhostlyBeef"],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: "https://www.furaffinity.net/user/ghostlybeef",
-            e621: "https://e621.net/artists/125474",
-            bsky: ["https://bsky.app/profile/ghostlybeef.bsky.social", "https://bsky.app/profile/spectralbeef.bsky.social"],
-            twitter: ["https://x.com/Ghostlybeef", "https://x.com/Spectralbeef"]
-            
         }
     },
     {
@@ -129,18 +104,6 @@ const artists = [
         }
     },
     {
-        name: "Chocolate & Milk",
-        aliases: ["ChocoBeverage"],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: "https://www.furaffinity.net/user/chocolateandmilk",
-            e621: "https://e621.net/artists/74557",
-            bsky: "https://bsky.app/profile/chocolateandmilk.bsky.social",
-            twitter: "https://x.com/chocobeverage"
-        }
-    },
-    {
         name: "Chronobyte",
         aliases: ["Oekanuki", "KxE6", "FBI"],
         imageExt: "png",
@@ -173,18 +136,6 @@ const artists = [
             fa: "https://www.furaffinity.net/user/corvidtree",
             e621: "https://e621.net/artists/96992",
             bsky: "https://bsky.app/profile/corvidtree.bsky.social"
-        }
-    },
-    {
-        name: "CosmicTail",
-        aliases: [],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: "https://www.furaffinity.net/user/cosmictail",
-            e621: "https://e621.net/artists/71473",
-            bsky: "https://bsky.app/profile/cosmictail.bsky.social",
-            twitter: "https://x.com/cosmictail"
         }
     },
     {
@@ -267,18 +218,6 @@ const artists = [
             e621: "https://e621.net/artists/829",
             bsky: "https://bsky.app/profile/gorilladrama.bsky.social",
             twitter: ["https://x.com/gorilladrama", "https://x.com/NightPhysics"]
-        }
-    },
-    {
-        name: "Eddio",
-        aliases: ["SeaSprayDragon"],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: ["https://www.furaffinity.net/gallery/eddio", "https://www.furaffinity.net/user/seaspraydragon"],
-            e621: ["https://e621.net/artists/57430", "https://e621.net/artists/114283"],
-            bsky: ["https://bsky.app/profile/eddio.bsky.social", "https://bsky.app/profile/seaspray-dragon.bsky.social"],
-            twitter: ["https://x.com/gleeksunstroke", "https://x.com/seaspraydragon"]
         }
     },
     {
@@ -387,18 +326,6 @@ const artists = [
             e621: "https://e621.net/artists/32401",
             bsky: "https://bsky.app/profile/izrez.bsky.social",
             twitter: "https://x.com/SnakeGremlin"
-        }
-    },
-    {
-        name: "Jamzenn",
-        aliases: [],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: "https://www.furaffinity.net/user/jamzenn",
-			e621: "https://e621.net/artists/125505",
-			bsky: "https://bsky.app/profile/jamzenn.bsky.social",
-			twitter: "https://x.com/jamzenn"
         }
     },
     {
@@ -727,18 +654,6 @@ const artists = [
 			e621: "https://e621.net/artists/125544",
             bsky: "https://bsky.app/profile/stinkdyde.bsky.social",
 			twitter: "https://x.com/stinkdyde"
-        }
-    },
-    {
-        name: "Strange-Fox",
-        aliases: ["CivetStranj"],
-        imageExt: "png", 
-        info: "",
-        socials: {
-			fa: "https://www.furaffinity.net/user/strange-fox",
-			e621: "https://e621.net/artists/27959",
-            bsky: "https://bsky.app/profile/stranj.bsky.social",
-			twitter: ["https://x.com/CivetStranj", "https://x.com/badstranj"]
         }
     },
     {
