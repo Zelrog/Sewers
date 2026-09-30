@@ -623,18 +623,6 @@ const artists = [
         }
     },
     {
-        name: "Wolfsl",
-        aliases: ["Feifner"],
-        imageExt: "png", 
-        info: "",
-        socials: {
-            fa: "https://www.furaffinity.net/user/wolfsl",
-			e621: "https://e621.net/artists/30869",
-			bsky: "https://bsky.app/profile/feifner.bsky.social",
-			twitter: "https://x.com/Feifner"
-        }
-    },
-    {
         name: "x6udpngx",
         aliases: ["pngx"],
         imageExt: "png", 
