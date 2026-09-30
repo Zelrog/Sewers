@@ -657,5 +657,17 @@ const artists = [
 			bsky: "https://bsky.app/profile/zandercollie.bsky.social",
             e621: "https://e621.net/artists/43540"
         }
-    }
+    },
+	{
+        name: "HappyRoadKill",
+        aliases: ["GravityBalls"],
+        imageExt: "png", 
+        info: "",
+        socials: {
+			fa: "https://www.furaffinity.net/user/gravityballs/",
+			bsky: ["https://bsky.app/profile/happyroadkill.bsky.social", "https://bsky.app/profile/gravityballs.bsky.social"],
+            e621: "https://e621.net/artists/44330",
+			twitter: ["https://x.com/gravityballs", "https://x.com/happyroadkill"]
+        }
+    },
 ];
